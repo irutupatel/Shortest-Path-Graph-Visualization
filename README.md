@@ -5,17 +5,16 @@ draw a schematic of the entire timetable, highlighting the shortest route
 between two cities in terms of least time travel.
 
 ## Dependencies:
-Files I wrote:
-project5.py
-TripPlanner.py
+- project5.py
+- TripPlanner.py
 
 ## Other necessary files:
-adaptable_heap_priority_queue.py
-Empty.py
-graph.py
-heap_priority_queue.py
-priority_queue_base.py
-shortest_paths.py
+- adaptable_heap_priority_queue.py
+- Empty.py
+- graph.py
+- heap_priority_queue.py
+- priority_queue_base.py
+- shortest_paths.py
 
 ## Requirements:
 - Python 3
